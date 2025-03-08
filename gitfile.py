@@ -1,6 +1,6 @@
 print('we are learning github')
 print('this is my first line')
-print('changing from locally')
-print('hello siva prasad')
-print('my new content')
-print('Github to local system')
+count=1
+for i in range(1,10)
+print(i)
+i=i+1
